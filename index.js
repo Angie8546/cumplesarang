@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Ta weno pues u.u que al cabo ya habia quedado con el pinocho para ver el futbol... no cheto aqui ta <3 https://mega.nz/folder/ik1AUSxK#DovW8QD3geIPTz86dpZPWQ uwu')
+   location.href = "https://mega.nz/folder/ik1AUSxK#DovW8QD3geIPTz86dpZPWQ";
 });
 
 const noBtn = document.querySelector('#noBtn');
