@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+.contenedor{
+    background-image: url("https://i.pinimg.com/736x/84/1a/18/841a185ffb6d779394629de8c6aafc85.jpg");
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.75em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
